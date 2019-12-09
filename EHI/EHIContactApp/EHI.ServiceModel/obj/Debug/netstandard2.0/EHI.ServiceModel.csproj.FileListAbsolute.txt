@@ -1,0 +1,16 @@
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.deps.json
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.dll
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.pdb
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.dll
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.pdb
+D:\EHI\EHIContactApp\EHI.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.deps.json
+D:\EHI\EHIContactApp\EHI.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.dll
+D:\EHI\EHIContactApp\EHI.ServiceModel\bin\Debug\netstandard2.0\EHI.ServiceModel.pdb
+D:\EHI\EHIContactApp\EHI.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.csproj.CoreCompileInputs.cache
+D:\EHI\EHIContactApp\EHI.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.AssemblyInfoInputs.cache
+D:\EHI\EHIContactApp\EHI.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.AssemblyInfo.cs
+D:\EHI\EHIContactApp\EHI.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.dll
+D:\EHI\EHIContactApp\EHI.ServiceModel\obj\Debug\netstandard2.0\EHI.ServiceModel.pdb

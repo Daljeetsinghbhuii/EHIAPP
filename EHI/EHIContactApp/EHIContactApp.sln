@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.API", "EHI.API\EHI.API.csproj", "{567ED366-25DE-4CC1-8C67-9F7FF5A9189D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.BLRule", "EHI.BLRule\EHI.BLRule.csproj", "{DFDFB4BC-4118-45B2-B823-039A7E7684FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.ServiceModel", "EHI.ServiceModel\EHI.ServiceModel.csproj", "{17169EC9-4E51-44BE-BF25-68C3542F10B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.DBModel", "EHI.DBModel\EHI.DBModel.csproj", "{85292BAB-AA6B-4B75-9DB4-C9C15BECE47F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.Repository", "EHI.Repository\EHI.Repository.csproj", "{31786125-13CF-4E92-BF99-AE51B790C41A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHI.Mapper", "EHI.Mapper\EHI.Mapper.csproj", "{3A3DABF9-B68D-42B5-9ADB-EA7BC813D1A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567ED366-25DE-4CC1-8C67-9F7FF5A9189D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567ED366-25DE-4CC1-8C67-9F7FF5A9189D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567ED366-25DE-4CC1-8C67-9F7FF5A9189D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567ED366-25DE-4CC1-8C67-9F7FF5A9189D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDFB4BC-4118-45B2-B823-039A7E7684FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDFB4BC-4118-45B2-B823-039A7E7684FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDFB4BC-4118-45B2-B823-039A7E7684FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDFB4BC-4118-45B2-B823-039A7E7684FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17169EC9-4E51-44BE-BF25-68C3542F10B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17169EC9-4E51-44BE-BF25-68C3542F10B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17169EC9-4E51-44BE-BF25-68C3542F10B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17169EC9-4E51-44BE-BF25-68C3542F10B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85292BAB-AA6B-4B75-9DB4-C9C15BECE47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85292BAB-AA6B-4B75-9DB4-C9C15BECE47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85292BAB-AA6B-4B75-9DB4-C9C15BECE47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85292BAB-AA6B-4B75-9DB4-C9C15BECE47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31786125-13CF-4E92-BF99-AE51B790C41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31786125-13CF-4E92-BF99-AE51B790C41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31786125-13CF-4E92-BF99-AE51B790C41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31786125-13CF-4E92-BF99-AE51B790C41A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3DABF9-B68D-42B5-9ADB-EA7BC813D1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3DABF9-B68D-42B5-9ADB-EA7BC813D1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3DABF9-B68D-42B5-9ADB-EA7BC813D1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3DABF9-B68D-42B5-9ADB-EA7BC813D1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7253CD98-3640-4684-A67F-ED4E78A5F6CB}
+	EndGlobalSection
+EndGlobal

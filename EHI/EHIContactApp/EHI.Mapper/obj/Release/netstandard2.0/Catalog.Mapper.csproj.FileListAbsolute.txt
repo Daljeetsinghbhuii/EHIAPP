@@ -1,0 +1,14 @@
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.Mapper.deps.json
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.Mapper.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.Mapper.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.DBModel.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.ServiceModel.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.DBModel.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\bin\Release\netstandard2.0\Catalog.ServiceModel.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.csprojAssemblyReference.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.csproj.CoreCompileInputs.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.AssemblyInfoInputs.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.AssemblyInfo.cs
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.csproj.CopyComplete
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.Mapper\obj\Release\netstandard2.0\Catalog.Mapper.pdb

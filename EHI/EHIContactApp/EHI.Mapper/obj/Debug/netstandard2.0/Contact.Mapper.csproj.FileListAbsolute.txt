@@ -1,0 +1,14 @@
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.csprojAssemblyReference.cache
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.Mapper.deps.json
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.Mapper.dll
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.Mapper.pdb
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.DBModel.dll
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.ServiceModel.dll
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.DBModel.pdb
+D:\EHI\Catalog\Catalog.Mapper\bin\Debug\netstandard2.0\Contact.ServiceModel.pdb
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.csproj.CopyComplete
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.dll
+D:\EHI\Catalog\Catalog.Mapper\obj\Debug\netstandard2.0\Contact.Mapper.pdb

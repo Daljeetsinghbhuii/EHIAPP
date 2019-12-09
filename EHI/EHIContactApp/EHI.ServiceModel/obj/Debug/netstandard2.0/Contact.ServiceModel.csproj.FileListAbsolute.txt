@@ -1,0 +1,9 @@
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.csprojAssemblyReference.cache
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\Contact.ServiceModel.deps.json
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\Contact.ServiceModel.dll
+D:\EHI\Catalog\Catalog.ServiceModel\bin\Debug\netstandard2.0\Contact.ServiceModel.pdb
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.dll
+D:\EHI\Catalog\Catalog.ServiceModel\obj\Debug\netstandard2.0\Contact.ServiceModel.pdb

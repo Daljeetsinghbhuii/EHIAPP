@@ -1,0 +1,14 @@
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.csprojAssemblyReference.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.DAL.deps.json
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.DAL.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.DAL.pdb
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.DBModel.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.ServiceModel.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.DBModel.pdb
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\Contact.ServiceModel.pdb
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.csproj.CopyComplete
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.dll
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\Contact.DAL.pdb

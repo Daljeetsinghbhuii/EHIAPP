@@ -1,0 +1,29 @@
+﻿{
+  "CustomErrorList": [
+    {
+      "ErrorCode": "ER1000",
+      "ErrorMessage": "Interner server error.",
+      "ErrorKey": "InternalError"
+    },
+    {
+      "ErrorCode": "ER1001",
+      "ErrorMessage": "Invalid Request.",
+      "ErrorKey": "InvalidRequest"
+    },
+    {
+      "ErrorCode": "ER1002",
+      "ErrorMessage": "{0}: Records Not Found.",
+      "ErrorKey": "RecordsNotFound"
+    },
+    {
+      "ErrorCode": "ER1004",
+      "ErrorMessage": "SQL Server Exception.",
+      "ErrorKey": "SQLException"
+    },
+    {
+      "ErrorCode": "ER1005",
+      "ErrorMessage": "Duplicate Key Exception.",
+      "ErrorKey": "DuplicateKeyException"
+    }
+  ]
+}

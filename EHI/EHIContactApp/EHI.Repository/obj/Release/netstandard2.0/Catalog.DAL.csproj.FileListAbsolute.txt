@@ -1,0 +1,16 @@
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.DAL.deps.json
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.DAL.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.DAL.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.DBModel.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.ServiceModel.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\CCC.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Utilities.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.DBModel.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\bin\Release\netstandard2.0\Catalog.ServiceModel.pdb
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.csprojAssemblyReference.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.csproj.CoreCompileInputs.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.AssemblyInfoInputs.cache
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.AssemblyInfo.cs
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.csproj.CopyComplete
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.dll
+C:\Dev\FoodRebel\FoodRebel.Services\Module\Catalog\Catalog.DAL\obj\Release\netstandard2.0\Catalog.DAL.pdb

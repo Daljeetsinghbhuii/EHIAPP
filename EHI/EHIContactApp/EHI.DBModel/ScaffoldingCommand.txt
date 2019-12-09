@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=EEEPC0388\SQLEXPRESS;Database=EHIDemo;UID=sa;PWD=#daljeet123;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

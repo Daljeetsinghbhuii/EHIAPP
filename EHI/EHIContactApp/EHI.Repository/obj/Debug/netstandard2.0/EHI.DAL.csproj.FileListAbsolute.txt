@@ -1,0 +1,14 @@
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.csprojAssemblyReference.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.DAL.deps.json
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.DAL.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.DAL.pdb
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.DBModel.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.ServiceModel.dll
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.DBModel.pdb
+D:\EHI\Catalog\Catalog.DAL\bin\Debug\netstandard2.0\EHI.ServiceModel.pdb
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.csproj.CopyComplete
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.dll
+D:\EHI\Catalog\Catalog.DAL\obj\Debug\netstandard2.0\EHI.DAL.pdb

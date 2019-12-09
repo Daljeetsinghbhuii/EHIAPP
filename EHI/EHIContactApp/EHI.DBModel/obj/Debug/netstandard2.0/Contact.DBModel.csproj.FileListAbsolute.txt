@@ -1,0 +1,9 @@
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.csprojAssemblyReference.cache
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.csproj.CoreCompileInputs.cache
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.AssemblyInfoInputs.cache
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.AssemblyInfo.cs
+D:\EHI\Catalog\Catalog.DBModel\bin\Debug\netstandard2.0\Contact.DBModel.deps.json
+D:\EHI\Catalog\Catalog.DBModel\bin\Debug\netstandard2.0\Contact.DBModel.dll
+D:\EHI\Catalog\Catalog.DBModel\bin\Debug\netstandard2.0\Contact.DBModel.pdb
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.dll
+D:\EHI\Catalog\Catalog.DBModel\obj\Debug\netstandard2.0\Contact.DBModel.pdb

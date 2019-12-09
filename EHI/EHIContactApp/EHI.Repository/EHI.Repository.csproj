@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>FoodRebel.Services.Catalog.DAL</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <CodeAnalysisRuleSet>D:\EHI\EHIContactApp\EHIContactApp.ruleset</CodeAnalysisRuleSet>
+	<TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+	<WarningsAsErrors />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CodeAnalysisRuleSet>D:\EHI\EHIContactApp\EHIContactApp.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EHI.DBModel\EHI.DBModel.csproj" />
+    <ProjectReference Include="..\EHI.ServiceModel\EHI.ServiceModel.csproj" />
+  </ItemGroup>
+
+</Project>
